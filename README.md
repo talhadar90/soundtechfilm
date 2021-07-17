@@ -12,21 +12,6 @@
 
 To get started only unzip the downloaded content, enter the `Landing Page/html-landing-page` and open the `.html` file in your favorite Browser.
 
-
-
-## Documentation
-The documentation for the HTML Landing Page is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/#/documentation/landing?ref=hlp-tsk-readme" target="_blank">website</a>.
-
-
-
-<a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/#/landing?ref=hlp-tsk-readme" target="_blank">View More</a>
-
-
-## Quick start
-
-- <a href="https://github.com/creativetimofficial/tailwind-starter-kit/archive/master.zip" target="_blank">Download from Github</a>.
-- <a href="https://github.com/creativetimofficial/tailwind-starter-kit" target="_blank">Check it on Github</a>.
-
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
